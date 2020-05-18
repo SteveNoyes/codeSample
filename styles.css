@@ -1,0 +1,34 @@
+@import url('http://necolas.github.io/normalize.css/3.0.2/normalize.css');
+
+#hero-wrap {
+  height: 300px;
+  width: 100%;
+  background-image: url("JandL.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: grey;
+  margin-bottom: 30px;
+}
+
+body {
+  background-color: white;
+}
+
+h2 {
+  text-align: center;
+}
+
+
+.buttonSet {
+  height: 50px;  
+  padding: 0 10px;
+  border-radius:8px;
+  box-shadow: 4px 6px rgba(55, 55, 45, .4);
+  background-color: lightblue;
+  color: black;
+  font-size:20px;
+}
+
+.newBottom {
+  background-color: lightblue;
+}
