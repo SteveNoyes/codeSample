@@ -1,0 +1,40 @@
+
+
+
+
+/* A class to indent code along a fixed line. 
+To look like a text editor. */
+
+
+.tab0 {
+    margin-left: 2em;
+}
+
+.tab1 {
+    margin-left: 4em;
+}
+
+.tab2 {
+    margin-left: 6em;
+}
+
+.tab3 {
+    margin-left: 8em;
+}
+
+
+main {
+    background-color: black;
+    padding: 40px 0;
+}
+
+.terminalColor {
+    color: #39ff14;
+    margin-left: 5px;
+}
+
+.scrolli {
+    text-size: 50px;
+    background-color: blanchedalmond;
+}
+
